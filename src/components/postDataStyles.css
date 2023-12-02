@@ -1,0 +1,34 @@
+.post-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .table-container {
+    margin-bottom: 30px;
+    width: 80%;
+    overflow-x: auto;
+  }
+  
+  .post-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .post-table th, .post-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .post-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .pie-chart-container {
+    width: 400px;
+  }
+  
